@@ -1,2 +1,2 @@
 # recipe-app-api
-Api to store your recipes
+Recipe Api Source code.
