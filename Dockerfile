@@ -3,7 +3,7 @@ MAINTAINER Bukhosi Moyo
 
 ENV PYTHONUNBUFFERED 1
 
-COPY ./requiments.txt /requirements.txt
+COPY ./requirements.txt /requirements.txt
 RUN pip install -r /requirements.txt
 
 RUN mkdir /app
